@@ -4,10 +4,6 @@
 
 The goal of this project is to create a user-centric and intelligent system that enhances information retrieval from PDF documents through natural language queries. The project focuses on streamlining the user experience by developing an intuitive interface, allowing users to interact with PDF content using language they are comfortable with. To achieve this, we leverage the Retrieval Augmented Generation (RAG) methodology introduced by Meta AI researchers.
 
-
-https://github.com/ArmaanSeth/ChatPDF/assets/99117431/2500f636-c66d-46ad-bb68-1d55f04ce753
-
-
 ## Retrieval Augmented Generation (RAG)
 
 ### Introduction
@@ -40,7 +36,7 @@ To use the PDF Intelligence System:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/ArmaanSeth/ChatPDF.git
+   git clone https://github.com/SaYanZz0/Chat-with-your-PDF.git
    ```
 
 2. Install dependencies.
@@ -55,9 +51,6 @@ To use the PDF Intelligence System:
 
 4. Open your browser and navigate to `http://localhost:8000` to access the user interface.
 
-## Contributing
-
-We welcome contributions to enhance the PDF Intelligence System. If you're interested in contributing, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
